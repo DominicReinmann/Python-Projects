@@ -1,2 +1,3 @@
 # Python-Projects
-This includes all my Python projects I made along the way in Codecademy Learn Python 3
+This repository contains my python project and ideas I'm making while learning to code
+
